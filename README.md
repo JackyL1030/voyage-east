@@ -4,6 +4,9 @@
 
 This is a beginner-level website that showcases three destinations: Japan, Hong Kong, and Taiwan. The website allows users to explore a bit of what each place has to offer.
 
+## Live Preview
+https://jackyl1030.github.io/voyage-east/
+
 ## Features
 
 ### HTML Features:
